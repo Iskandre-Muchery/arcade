@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/arcade.dir/main.cpp.o"
-  "arcade"
   "arcade.pdb"
+  "arcade"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -13,6 +13,7 @@ class IGraphical {
         virtual ~IGraphical() = default;
         virtual int createWindow() = 0;
         virtual int load() = 0;
+        virtual char *getCh() = 0;
         virtual void display() = 0;
         virtual void clearWindow() = 0;
 
