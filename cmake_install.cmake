@@ -1,4 +1,4 @@
-# Install script for directory: /Users/iskandre/delivery_2019/Oriented-Object-Programming/OOP_arcade_2019
+# Install script for directory: /Users/Shin/Desktop/EPI 2 ème année/B4-Object-Oriented-Programming/arcade
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/iskandre/delivery_2019/Oriented-Object-Programming/OOP_arcade_2019/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Shin/Desktop/EPI 2 ème année/B4-Object-Oriented-Programming/arcade/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
